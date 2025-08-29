@@ -1,2 +1,2 @@
 # Horizon_Rm_Vision_2025
-RoboMaster2025赛季Horizon战队自瞄程序仓库
+RoboMaster2025赛季Horizon战队自瞄程序仓库，包含所有车型的通用自瞄代码和飞镖视觉代码
